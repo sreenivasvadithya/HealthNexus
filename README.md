@@ -47,6 +47,7 @@ More Details of project :
 -> At the bottom fotter we have admin page only admins can acees it and upload medicines.
 
 -> At last we have a "About Us" page which provides or tell about our services.
+   ---end--
 
 
 
