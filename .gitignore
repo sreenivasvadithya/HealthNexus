@@ -1,0 +1,4 @@
+node_modules
+logs
+access.log
+.env
